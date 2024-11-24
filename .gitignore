@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Environment
+.venv
+.vscode
+.bolt
+.idx
+demo.ipynb
+.env
+response.md
+all_code.txt
